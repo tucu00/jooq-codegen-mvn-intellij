@@ -1,0 +1,19 @@
+# Git
+*.rej
+*.orig
+*.gitreview
+
+# Maven
+target
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+#vim
+*.swp
+
+#OSX
+.DS_Store
